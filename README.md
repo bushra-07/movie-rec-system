@@ -1,8 +1,4 @@
-# FlixHarbor: A Movie Recommendation System
-
-![FlixHarbor Logo](https://your-logo-url-here.png)
-
----
+# FlixHarbor: A Movie Recommendation System🎬🍿
 
 ## Overview
 
@@ -15,10 +11,6 @@ FlixHarbor leverages the power of recommendation algorithms to suggest movies ba
 ## Features
 
 - **Sleek Interface:** FlixHarbor boasts a sleek and user-friendly interface, making your movie discovery experience a breeze.
-
-- **Beautiful Gradients:** Our gradient background sets the mood right from the start, immersing you in a cinematic atmosphere.
-
-- **Contributors:** FlixHarbor is a creation by the talented trio - Bushra Shaikh, Ayesha Shaikh, and Neha Yadav. Kudos to them for bringing movie magic to your fingertips!
 
 ## Technologies Used
 
