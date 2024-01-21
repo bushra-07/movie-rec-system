@@ -24,7 +24,7 @@ st.markdown(
 
 def fetch_poster(movie_id):
     response = requests.get(
-        'https://api.themoviedb.org/3/movie/{}?api_key={YOUR API KEY}'.format(movie_id))
+        'https://api.themoviedb.org/3/movie/{}?api_key=8f21da0c1e1b6d8ae68f49a6203141fb'.format(movie_id))
     data = response.json()
 
     return "https://image.tmdb.org/t/p/w500/" + data['poster_path']
